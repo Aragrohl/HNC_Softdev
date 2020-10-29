@@ -201,5 +201,6 @@ public class Pontoon
 				break;
 			}	
 		}
+		kb.close();	
 	}
 }
